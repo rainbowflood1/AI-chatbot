@@ -1,6 +1,7 @@
 #include <string>
 #include <vector>
 #include <iostream>
+#define TRAINING_ITER 5
 #define MAX_TOKEN 25
 
 class Neron {
