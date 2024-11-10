@@ -24,7 +24,8 @@ class NuralNetwork {
 };
 
 NuralNetwork create_network() {
-
+    NuralNetwork* network;
+    layer input;
 }
 
 class AI_chatbot { // Create chatbot instance
